@@ -5,6 +5,7 @@ By Chanatiwat Nillaphat 6222780015
 # Dependencies
 - HTML 5
 - Bootstrap v4.0
+- Vue
 
 # Usage
 To display mockups for cart, home, and popular genres pages of Nova Audio website
